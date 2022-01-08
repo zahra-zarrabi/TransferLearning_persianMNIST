@@ -7,7 +7,7 @@ MNIST persian image dataset includes a training set of 960 samples and a test se
 ## Train
 To train the model please run the file:
 ```
-train.py
+Train.py
 ```
 ## Training metrics
 Show results on wandb [here](https://wandb.ai/zahra_zarrabi/pytorch-sweeps-demo?workspace=user-zahra_zarrabi)
