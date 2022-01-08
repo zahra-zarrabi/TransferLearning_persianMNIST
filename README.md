@@ -5,7 +5,8 @@ Dataset
 MNIST persian image dataset includes a training set of 960 samples and a test set of 240 samples. Each sample is resized to 64*64 pixels on a RGB associated with a tag of 10 classes. Please download dataset from [here](https://drive.google.com/drive/folders/1--LGkYnr8Biq9iD0B445YZNC7MOq7Fds?usp=sharing)
 
 Train
-To train the model please run the file ```
+To train the model please run the file 
+```
 train.ipynb
 ```
 
